@@ -12,6 +12,6 @@ Through my dissertation work, I seek to increase understanding of how stress-rel
 Please get in touch!
 
 More info: 
-* Here's my current [CV](https://github.com/nataliesmith123/nataliesmith123/files/9577371/NRSmith_CV_09-15-22.pdf)
-* [@sophieravanbakht](https://twitter.com/_NatRSmith)
+* Here's my current [CV]()
+* [@snravanbakht](@snravanbakht)
 
