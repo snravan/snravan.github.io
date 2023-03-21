@@ -1,7 +1,6 @@
 # snravan.github.io
 Sophie Ravanbakht's Website
 @@ -1,16 +1,18 @@
-### Hi there 👋
 ### Hello!
 
 <!--
